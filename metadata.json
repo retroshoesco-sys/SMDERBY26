@@ -1,0 +1,6 @@
+{
+  "name": "Summer Derby 2026",
+  "description": "Local hard tennis ball cricket league management, alliance generator, live standings, and ball-by-ball scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
